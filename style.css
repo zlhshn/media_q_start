@@ -30,8 +30,8 @@ div {
     justify-content: center;
 }
 div img{
-   
-width: 50%;
+  
+width: 400px;
 
 }
 
@@ -62,8 +62,8 @@ body{
 
 img{
     content: url("https://picsum.photos/id/174/600/400");
-  
-  height: 40rem;
+   
+  height: 500px;
 }
 
 header ul {
